@@ -1,5 +1,5 @@
 {
-  "name": "ContentEdit",
+  "name": "CTEditor",
   "description": "A JavaScript library that provides a set of classes for building content-editable HTML elements.",
   "main": [
     "build/content-edit.js",
@@ -12,9 +12,9 @@
     ],
   "authors": [
     {
-      "name": "Anthony Blackshaw",
-      "email": "ant@getme.co.uk",
-      "url": "https://github.com/anthonyjb"
+      "name": "Kirill Monocle",
+      "email": "kirillfunke@gmail.com",
+      "url": "https://github.com/monocles"
     }
   ],
   "license": "MIT",
@@ -24,10 +24,9 @@
     "html",
     "editor"
   ],
-  "homepage": "http://getcontenttools.com/api/content-edit",
   "repository": {
     "type": "git",
-    "url": "git@github.com:GetmeUK/ContentEdit.git"
+    "url": "git@github.com:monocles/CTEditor.git"
   },
   "moduleType": [
     "globals"
