@@ -1,7 +1,7 @@
 {
-  "name": "ContentEdit",
+  "name": "CTEditor",
   "description": "A JavaScript library that provides a set of classes for building content-editable HTML elements.",
-  "version": "1.2.1",
+  "version": "1.0",
   "keywords": [
     "wysiwyg",
     "inline",
@@ -9,9 +9,9 @@
     "editor"
   ],
   "author": {
-    "name": "Anthony Blackshaw",
-    "email": "ant@getme.co.uk",
-    "url": "https://github.com/anthonyjb"
+    "name": "Kirill Monocle",
+    "email": "kirillfunke@gmail.com",
+    "url": "https://github.com/monocles"
   },
   "main": "build/content-edit.js",
   "devDependencies": {
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GetmeUK/ContentEdit.git"
+    "url": "https://github.com/monocles/CTEditor.git"
   }
 }
